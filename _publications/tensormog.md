@@ -13,4 +13,4 @@ This paper is a tensor formulation of old imperative GMMs model for background s
 [Download paper here](http://ntcuong777.github.io/files/tensormog.pdf)
 
 Recommended citation (AMA Style):
-```<i>Ha SV-U, Chung NM, Phan HN, Nguyen CT. TensorMoG: A Tensor-Driven Gaussian Mixture Model with Dynamic Scene Adaptation for Background Modelling. Sensors. 2020; 20(23):6973. https://doi.org/10.3390/s20236973</i>```
+```Ha SV-U, Chung NM, Phan HN, Nguyen CT. TensorMoG: A Tensor-Driven Gaussian Mixture Model with Dynamic Scene Adaptation for Background Modelling. Sensors. 2020; 20(23):6973. https://doi.org/10.3390/s20236973```
