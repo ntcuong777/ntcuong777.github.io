@@ -3,7 +3,7 @@ title: "CDN-MEDAL: Dual Convolutional Networks on Gaussian Mixture Density for M
 collection: publications
 permalink: /publication/cdn-medal-net
 excerpt: 'This paper tries to formulate the statistical GMMs method into a deep learning framework that maximizes efficiency.'
-date: None
+date: 2021-02-18
 venue: 'IEEE TCSVT'
 paperurl: 'http://ntcuong777.github.io/files/CDN-MEDAL-net.pdf'
 citation:
