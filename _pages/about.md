@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal spider web of Tien-Cuong Nguyen"
+title: "Personal website of Tien-Cuong Nguyen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -2,13 +2,13 @@
 title: "TensorMoG: A Tensor-Driven Gaussian Mixture Model with Dynamic Scene Adaptation for Background Modelling"
 collection: publications
 permalink: /publication/tensormog
-excerpt: 'This paper is a tensor formulation of old imperative GMMs model for background subtraction to maximize GPU usage. It also incorporates entropy estimation to detect highly disorder scenes to prevent malicious updates of the background. Cool idea from thermodynamics, right? :)'
+excerpt: 'This paper is a tensor formulation of old imperative GMMs model for background subtraction to maximize GPU usage with entropy estimation.'
 date: 2020-12-03
 venue: 'MDPI Sensors'
 paperurl: 'http://ntcuong777.github.io/files/tensormog.pdf'
 citation: 'Ha SV-U, Chung NM, Phan HN, Nguyen CT'
 ---
-This paper is a tensor formulation of old imperative GMMs model for background subtraction to maximize GPU usage. It also incorporates entropy estimation to detect highly disorder scenes to prevent malicious updates of the background. Cool idea from thermodynamics, right? :)
+This paper is a tensor formulation of old imperative GMMs model for background subtraction to maximize GPU usage. It also incorporates entropy estimation to detect highly disorder scenes to prevent malicious updates of the background.
 
 [Download paper here](http://ntcuong777.github.io/files/tensormog.pdf)
 

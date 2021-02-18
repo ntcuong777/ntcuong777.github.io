@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tien-Cuong Nguyen /<br/>Academiracle profile"
+title                    : "Tien-Cuong Nguyen"
 title_separator          : "-"
 name                     : &name "Tien-Cuong Nguyen"
-description              : &description "I'm in search for answers for small questions as my biggest question is already been answered."
+description              : &description "I'm searching."
 url                      : https://ntcuong777.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ntcuong777/ntcuong777.github.io"
