@@ -22,6 +22,20 @@ Skills
 * Competitive Programming
 * Research
 
+Awards
+======
+* Bronze medal in International Collegiate Programming Contest - Asia Pacific Regional Contest 2019
+* First Prize in International Collegiate Programming Contest - Asia Pacific Regional Contest 2019 (amongst the Vietnamese teams only)
+* Second Prize in International Collegiate Programming Contest - National Contest 2019
+* Third Prize in International Collegiate Programming Contest - Vietnam Southern Contest 2019
+* Second Prize in National Contest in Informatics, 2018
+* Third Prize in National Contest in Informatics, 2017
+
+Scholarships
+======
+* Odon Vallet Scholarship for High School Students - Southern Region, 2018
+* Odon Vallet Scholarship for High School Students - Southern Region, 2017
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -30,16 +44,16 @@ Publications
   
 Talks
 ======
-<!--  <ul>{% for post in site.talks %}
+<!---  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> --->
   
 Teaching
 ======
 TBA.
-  <!-- <ul>{% for post in site.teaching %}
+  <!--- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> --->
   
 Service and leadership
 ======
