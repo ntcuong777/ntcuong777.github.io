@@ -11,31 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2020
-* Postdoc in Washing at Home Laboratory, House University (2020 - present)
+* BEng in Computer Science and Engineering, International University - VNU HCMC (2018 - present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019 - present: Research assistant at Computer Vision and Image Processing (CVIP) Lab, International University - VNU HCMC
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Competitive Programming
+* Research
+* Mathematics
 
 Publications
 ======
@@ -51,10 +37,11 @@ Talks
   
 Teaching
 ======
+TBA.
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+TBA.
